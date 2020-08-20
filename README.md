@@ -21,13 +21,6 @@
       </ul>
     </ol> 
 -----------------------------------
- 	 <h3>Syntex<h3>
-	   <p>The syntax of the if...elif…else statement is −</p>
-		if expression: 
-			statement(s)<p> 
-		elif expression: 
-			statement(s) 
-		else: 
-			statement(s)
+ 	 
     </body>
 </html>

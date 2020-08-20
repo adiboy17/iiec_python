@@ -19,8 +19,6 @@
       <ul>
         The else statement is an optional statement and there could be at most only one else statement following if.
       </ul>
-    </ol> 
------------------------------------
- 	 
+    </ol>  
     </body>
 </html>

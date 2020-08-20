@@ -20,17 +20,14 @@
         The else statement is an optional statement and there could be at most only one else statement following if.
       </ul>
     </ol> 
+  
   <h3>Syntex<h3>
-   <p>The syntax of the if...elif…else statement is −
-
-if expression: 
-	<p>statement(s)<p> 
-
-elif expression: 
-	statement(s) 
-
-else: 
-	statement(s)
-<p>
+   	The syntax of the if...elif…else statement is −
+		if expression: 
+			statement(s)<p> 
+		elif expression: 
+			statement(s) 
+		else: 
+			statement(s)
     </body>
 </html>

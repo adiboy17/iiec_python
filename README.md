@@ -5,10 +5,17 @@
     
   </head>
   <body>
-    <h1>Python: OS based Menu-Driven </h1>
+    <head>
+      Python: OS based Menu-Driven
+    </head>
+  
     <h2>     Menu-Driven Program</h2>
-    <p>This is the  OS based program into menu driven program. 
-Python code which will execute the required user query when user will give the input as text.
-</p>
+    <p>This is the  OS based program into menu driven program. </p> 
+    <p>Python code which will execute the required user query when user will give the input as text.</p>
+ 
+ 
+ 
+ 
+ 
   </body>
 </html>

@@ -63,7 +63,7 @@ elif("snipping tool" in p):
 elif ("volume" in p):
     print(os.system("sndvol"), end="")
 
-elif ("windows" in p):
+elif ("window" in p):
     print(os.system("winver "), end="")
 
 elif ("start" in p) and ("run" in p) or ("wordpad" in p):
